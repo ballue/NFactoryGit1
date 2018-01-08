@@ -23,3 +23,13 @@ Un truc en **gras**
 un tuc en *italique*
 ---
 (ligne Horizontale)
+
+```
+<html>
+</html>
+```
+
+|Prenom|Nom|
+|---|---|
+|Emilie|Follin|
+|Lou|Lemarié|
